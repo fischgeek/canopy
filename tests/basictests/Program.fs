@@ -769,4 +769,6 @@ run ()
 
 switchTo mainBrowser
 
+Console.ReadLine() |> ignore
+
 quit()
